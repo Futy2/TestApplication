@@ -16,6 +16,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
+            //我这里也是一个测试
             MyApplicationTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
